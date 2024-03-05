@@ -1,4 +1,4 @@
-# SEDS Antariksh VIT Chennai Programming Department Website
+# SEDS Antariksh Programming Department Website
 
 [live website](https://showcase-website-seds.vercel.app/)
 
